@@ -29,8 +29,6 @@
 # Copyright (c) Qualcomm Technologies, Inc. and/or its subsidiaries.
 # SPDX-License-Identifier: BSD-3-Clause-Clear
 
-#Define the files used by powermodule
-type vendor_pm_data_file, file_type, data_file_type;
 type vendor_sysfs_guestvm, fs_type, sysfs_type;;
 
 type vendor_sysfs_lru_gen, fs_type, sysfs_type;
